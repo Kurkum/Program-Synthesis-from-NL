@@ -1,6 +1,5 @@
 # Program-Synthesis-from-NL
-Informacja: Repozytorium projektu syntezy programów, realizowanego przez Krzysztof Pasiewicz i Bartosz Mila. 
-
+Informacja: Repozytorium projektu syntezy programów, realizowanego przez Krzysztof Pasiewicz i Bartosz Mila. \n
 Oryginalny link: https://github.com/Nebizar/Program-Synthesis-from-NL
 
 
